@@ -1,0 +1,11 @@
+package entities;
+import java.util.Locale;
+
+public class Triangle {
+    public double a;
+    public double b;
+    public  double c;
+    //Dessa forma é possível com que apenas três variáveis na classe triângulo substiuram a criação de 6 variáveis no main.
+
+
+}
