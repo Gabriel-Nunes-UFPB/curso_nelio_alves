@@ -28,6 +28,8 @@ public class Main {
         areaX = Math.sqrt(p * (p-x.a) * (p-x.b) * (p-x.c));
         //Dessa forma, a variável do tipo Triangle x usado a, b e c que seriam "funções" de Triangle
 
+
+        //Utilizando o método "area" em triangle:
         System.out.println("Coloque as medidas dos lados do Triângulo Y: ");
         System.out.println("Lado A: ");
         y.a = sc.nextDouble();
@@ -35,8 +37,8 @@ public class Main {
         y.b = sc.nextDouble();
         System.out.println("Lado C: ");
         y.c = sc.nextDouble();
-        p = (y.a + y.b + y.c)/2;
-        areaY = Math.sqrt(p * (p-y.a) * (p-y.b) * (p-y.c));
+        //dessa forma a variável areaY "puxa" a função/método "area", complementando com os valores de y
+        areaY = y.area();
 
         System.out.printf("Triângulo X área: %.2f%n", areaX);
         System.out.printf("Triângulo Y área: %.2f%n", areaY);
