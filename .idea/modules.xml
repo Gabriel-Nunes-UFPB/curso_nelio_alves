@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Atividades/Atividade1_aula23/Atividade1_aula23.iml" filepath="$PROJECT_DIR$/Atividades/Atividade1_aula23/Atividade1_aula23.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades/Atividades.iml" filepath="$PROJECT_DIR$/Atividades/Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Estoque/POO_Estoque.iml" filepath="$PROJECT_DIR$/POO_Estoque/POO_Estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Triangulo.iml" filepath="$PROJECT_DIR$/POO/Triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_saida_de_dados/_01_saida_de_dados.iml" filepath="$PROJECT_DIR$/_01_saida_de_dados/_01_saida_de_dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_entrada_de_dados/_02_entrada_de_dados.iml" filepath="$PROJECT_DIR$/_02_entrada_de_dados/_02_entrada_de_dados.iml" />
