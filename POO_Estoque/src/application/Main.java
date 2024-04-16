@@ -18,5 +18,25 @@ public class Main {
         System.out.println("Quantity: ");
         product.quantity = sc.nextInt();
 
+        System.out.println();
+        System.out.println("Data: " + product.toString());
+
+        System.out.println();
+        System.out.println("Enter the number of products to be added in stock:");
+        int addQuantity = sc.nextInt();
+        product.addProducts(addQuantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product.toString());
+
+        System.out.println();
+        System.out.println("Enter the number of products to be removed from stock: ");
+        int removeQuantity = sc.nextInt();
+        product.removeProducts(removeQuantity);
+
+        System.out.println();
+        System.out.println("Second Updated data: " + product.toString());
+
+        sc.close();
     }
 }
