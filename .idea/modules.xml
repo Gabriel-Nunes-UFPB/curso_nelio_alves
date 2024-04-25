@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Atividades/Atividade1_aula23/Atividade1_aula23.iml" filepath="$PROJECT_DIR$/Atividades/Atividade1_aula23/Atividade1_aula23.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Atividades/Atividade1_aula69/Atividade1_aula69.iml" filepath="$PROJECT_DIR$/Atividades/Atividade1_aula69/Atividade1_aula69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/aula23/Atividade1_aula23/Atividade1_aula23.iml" filepath="$PROJECT_DIR$/Atividades/aula23/Atividade1_aula23/Atividade1_aula23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula69/Atividade1_aula69/Atividade1_aula69.iml" filepath="$PROJECT_DIR$/Atividades/Aula69/Atividade1_aula69/Atividade1_aula69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula72/AtividadeFixacao_aula72/AtividadeFixacao_aula72.iml" filepath="$PROJECT_DIR$/Atividades/Aula72/AtividadeFixacao_aula72/AtividadeFixacao_aula72.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atividades/Atividades.iml" filepath="$PROJECT_DIR$/Atividades/Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula69/Aula6.iml" filepath="$PROJECT_DIR$/Atividades/Aula69/Aula6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula72/Aula72.iml" filepath="$PROJECT_DIR$/Atividades/Aula72/Aula72.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO_Estoque/POO_Estoque.iml" filepath="$PROJECT_DIR$/POO_Estoque/POO_Estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Triangulo.iml" filepath="$PROJECT_DIR$/POO/Triangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01_saida_de_dados/_01_saida_de_dados.iml" filepath="$PROJECT_DIR$/_01_saida_de_dados/_01_saida_de_dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02_entrada_de_dados/_02_entrada_de_dados.iml" filepath="$PROJECT_DIR$/_02_entrada_de_dados/_02_entrada_de_dados.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade2_aula69/atividade2_aula69.iml" filepath="$PROJECT_DIR$/Atividades/atividade2_aula69/atividade2_aula69.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade3_aula69/atividade3_aula69.iml" filepath="$PROJECT_DIR$/Atividades/atividade3_aula69/atividade3_aula69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula69/atividade2_aula69/atividade2_aula69.iml" filepath="$PROJECT_DIR$/Atividades/Aula69/atividade2_aula69/atividade2_aula69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Aula69/atividade3_aula69/atividade3_aula69.iml" filepath="$PROJECT_DIR$/Atividades/Aula69/atividade3_aula69/atividade3_aula69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/aula23/aula23.iml" filepath="$PROJECT_DIR$/Atividades/aula23/aula23.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso_nelio_alves.iml" filepath="$PROJECT_DIR$/.idea/curso_nelio_alves.iml" />
     </modules>
   </component>

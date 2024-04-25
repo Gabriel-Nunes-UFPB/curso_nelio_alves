@@ -1,5 +1,4 @@
-package entities;
-import java.util.Locale;
+package util;
 
 public class Triangle {
     public double a;

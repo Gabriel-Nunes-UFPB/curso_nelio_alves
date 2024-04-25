@@ -1,4 +1,4 @@
-import entities.Student;
+import util.Student;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

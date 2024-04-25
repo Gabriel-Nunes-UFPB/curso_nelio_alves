@@ -1,7 +1,7 @@
 package program;
 import java.util.Locale;
 import java.util.Scanner;
-import entities.Triangle;
+import util.Triangle;
 
 public class Main {
     public static void main(String[] args) {

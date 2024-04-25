@@ -1,4 +1,4 @@
-package entities;
+package util;
 
 public class Student {
     public String name;
