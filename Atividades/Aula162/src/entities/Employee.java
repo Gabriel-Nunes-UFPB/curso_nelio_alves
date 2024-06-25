@@ -1,11 +1,5 @@
 package entities;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
-import java.util.ArrayList;
-import java.util.List;
-
 public class Employee {
     private String name;
     private Integer hours;
