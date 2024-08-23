@@ -43,9 +43,11 @@ public class Main {
         }
         System.out.println("TAXES PAID:");
         double totalTaxes = 0;
+
         for (Pessoa p : listaPessoas){
             System.out.println(p.getName() + " $ " + String.format("%.2f", p.tax()));
             totalTaxes += p.tax();
+
         }
         System.out.println("TOTAL TAXES: " + String.format("%.2f", totalTaxes));
 
